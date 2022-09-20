@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="Hello I'm Abadeer Magdy">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="personal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>Abadeer Magdy</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"><i>Abadeer</i></a>
+        <nav class="navigation">`
+            <a href="#">Home</a>
+            <a href="#projects">Projects</a>
+            <a href="#services">Services</a>
+            <a href="#conect">Conect</a>
+        </nav>
+    </header>
+    
+    <section class="main">
+        <div>
+            <h2>Hello I'm Abadeer <br><span>Photoshoper,Web devloper</span></h2>
+            <h3>Web devloper(front End)</h3>
+            <a href="#projects" class="main-btn">view My work</a>
+            <div class="social-icons">
+                <a href="https://www.youtube.com/channel/UCDC4kXeIAKlKC_7zHS8CKaQ"><i class="fab fa-youtube"></i></i></a>
+                <a href="https://twitter.com/abadeermagdy"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com/abadeer_0/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.facebook.com/abadeer.magdy/"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.tiktok.com/@aim_c0dmyt"><i class="fab fa-tiktok"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="cards" id="services">
+        <h2 class="title">Services - خدمات</h2>
+        <div class="content">
+            <div class="card">
+
+                
+                <div class="icon">
+                    <i class="fas fa-video"></i>
+                </div>
+
+
+                <div class="info">
+                    <h3>Video Creating</h3>
+                    <p>Creating Videos(Video Editing ,Uplouding The Video On any Platform)</p>                    
+                </div>
+            </div>
+            <div class="card">
+
+                
+                <div class="icon">
+                    <i class="far fa-object-group"></i>
+                </div>
+
+
+                <div class="info">
+                    <h3>Web Developing</h3>
+                    <p>Designing websites (Front-End) , And Choose all Icons And Colors</p>                    
+                </div>
+            </div>
+
+            <div class="card">
+
+                
+                <div class="icon">
+                    <i class="fas fa-photo-video"></i>
+                </div>
+
+
+                <div class="info">
+                    <h3>Photo Editing </h3>
+                    <p>Editing Photos And Videos And put Fascnating Effects on Them , and Control The opisity</p>                    
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <h2 class="title">projects</h2>
+        <div class="content">
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images2/PicsArt_06-26-08.13.12.jpg">
+                </div>
+                <div class="project-info">
+                    <p class="project-category">COD Mobile Videos</p>
+                    <strong class="project-title">
+                        <span>رفع تقييم باتل رويال #1</span>
+                        <a class="more-details" href="#">Full Video</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images2/PicsArt_07-04-12.45.32 - Copy.jpg">
+                </div>
+                <div class="project-info">
+                    <p class="project-category">COD Mobile Videos</p>
+                    <strong class="project-title">
+                        <span>رفع تقييم باتل #2</span>
+                        <a class="more-details" href="#">Full Video</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images2/PicsArt_06-28-08.50.51.jpg">
+                </div>
+                <div class="project-info">
+                    <p class="project-category">Call Of Duty Mobile Videos</p>
+                    <strong class="project-title">
+                        <span>لاعبت اقوي لاعب فكلاني</span>
+                        <a class="more-details" href="#">Full Video</a>
+                    </strong>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="images2/PicsArt_07-07-04.18.10.jpg">
+                </div>
+                <div class="project-info">
+                    <p class="project-category">COD Mobile Videos</p>
+                    <strong class="project-title">
+                        <span>تجربه سلاح M13</span>
+                        <a class="more-details" href="#">Full Video</a>
+                    </strong>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+
+    <section class="cards contect" id="conect">
+        <h2 class="title-cont">let's Work Together</h2>
+        <div class="content-cont">
+            <div class="card-cont">
+
+                
+                <div class="icon-cont-phone">
+                    <i class="fas fa-phone"></i>
+                </div>
+
+
+                <div class="info-cont-phone">
+                    <h3>Phone</h3>
+                    <p>
+                       +20 1144006383<br>
+                       +20 1556772619<br>
+                    </p>                    
+                </div>
+
+            </div>
+            <div class="card-cont">
+
+                
+                <div class="icon-cont-email">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="info-cont">
+                    <h3 class="email-h3">E-mail</h3>
+                    <p class="email">abadeerharby345@gmail.com</p>                
+            </div>
+            </div>
+    </section>
+    <br>
+    <br>
+    <br>
+<hr>
+    <footer class="end">
+        <p>Copy Rights<span>@Abadeer Magdy</span></p>
+        <div class="social-icons-end">
+            <a href="https://www.youtube.com/channel/UCDC4kXeIAKlKC_7zHS8CKaQ"><i class="fab fa-youtube"></i></i></a>
+            <a href="https://twitter.com/abadeermagdy"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/abadeer_0/"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/abadeer.magdy/"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.tiktok.com/@aim_c0dmyt"><i class="fab fa-tiktok"></i></a>
+        </div> 
+    </footer>
+
+    
+</html> 
